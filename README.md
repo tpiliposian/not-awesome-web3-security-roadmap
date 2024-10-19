@@ -1,6 +1,8 @@
 # Not so awesome Web3 Security Researcher roadmap
 
-by tpiliposian <a href="https://twitter.com/tpiliposian" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
+by tpiliposian
+
+<a href="https://twitter.com/tpiliposian" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
 
 2024
 

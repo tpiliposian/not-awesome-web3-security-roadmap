@@ -12,7 +12,7 @@ Tigran Piliposyan
 
 - [Introduction](#introduction)
 - [X](#x)
-- [EVM and Solidity](#EVM_and_Solidity)
+- [EVM and Solidity](#evm_and_solidity)
 - 
 
 ## Introduction

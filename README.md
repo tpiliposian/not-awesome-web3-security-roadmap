@@ -1,6 +1,6 @@
 # Not so awesome Web3 Security Researcher roadmap
 
-by tpiliposian
+Tigran Piliposyan
 
 <a href="https://twitter.com/tpiliposian" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
 

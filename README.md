@@ -1,2 +1,17 @@
-# tpiliposian-not-awesome-web3-security-roadmap
-Not so awesome Web3 Security Reasearcher roadmap by tpiliposian
+# Not so awesome Web3 Security Reasearcher roadmap
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+Of course this is not awesome.
+
+tpiliposian
+
+2024
+
+## Contents
+
+- [Introduction](#Introduction)
+- uuuu
+- uuuu
+
+## Introduction

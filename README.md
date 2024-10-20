@@ -43,3 +43,9 @@ So, if you’re serious about becoming a Web3 security researcher, do yourself a
 
 ## Traditional Roadmaps
 
+1. [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+2. [razzorsec/AuditorsRoadmap](https://github.com/razzorsec/AuditorsRoadmap)
+3. [Anugrahsr/Awesome-web3-Security](https://github.com/Anugrahsr/Awesome-web3-Security)
+4. [saeidshirazi/Awesome-Smart-Contract-Security](https://github.com/saeidshirazi/Awesome-Smart-Contract-Security)
+5. [Quillhash/QuillAudit_Auditor_Roadmap](https://github.com/Quillhash/QuillAudit_Auditor_Roadmap)
+

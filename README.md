@@ -27,7 +27,13 @@ And if you’re reading this, I’m guessing you’re ready for the same kind of
 
 ## X
 
+Let’s start with the easiest part: X (or Twitter, as many of us still call it). You might think Twitter is just for memes and celebrity drama, but for the Web3 security world, it’s the place to be. No, seriously—pretty much the entire Web3 security community lives on Twitter. It’s like a continuous stream of information, with people sharing everything from vulnerabilities to in-depth analyses and the latest research. To be honest, it’s not just for security researchers—developers or anyone who wants to be a top professional should stay tuned to updates, new technologies, and any breaking news.
 
+The cool thing about this space is that everyone’s out there posting content. You’ll find security researchers sharing their knowledge, bug bounty hunters celebrating their latest discoveries, and protocols announcing bounty programs for anyone brave enough to find bugs in their smart contracts. And it’s all happening in real-time. Twitter is where you’ll get the fastest updates on new exploits, bug disclosures, and hacks, often before they even hit the news.
+
+At first, I didn’t even have an account. When I first met with Hexens' CEO, [@Hexen1337](https://x.com/Hexen1337), he advised me to create one, and it quickly became a key tool for learning and growing. I followed accounts of security experts, read through long tweet threads dissecting the latest exploits, and stayed up to date with everything happening in the industry.
+
+So, if you’re serious about becoming a Web3 security researcher, do yourself a favor: get on Twitter, follow the right people, and dive into the flow.
 
 
 ## EVM and Solidity

@@ -33,8 +33,7 @@ The cool thing about this space is that everyone’s out there posting content. 
 
 At first, I didn’t even have an account. When I first met with Hexens' CEO, [@Hexen1337](https://x.com/Hexen1337), he advised me to create one, and it quickly became a key tool for learning and growing. I followed accounts of security experts, read through long tweet threads dissecting the latest exploits, and stayed up to date with everything happening in the industry.
 
-So, if you’re serious about becoming a Web3 security researcher, do yourself a favor: get on Twitter, follow the right people, and dive into the flow.
-
+So, if you’re serious about becoming a Web3 security researcher, do yourself a favor: get on Twitter, follow the right people, and dive into the flow. After reading this, you can even post about it, give your feedback, or mention me—it would be a pleasure! You can also post throughout your journey. I know people who are now very famous, and they started by sharing every step of their journey.
 
 ## EVM and Solidity
 

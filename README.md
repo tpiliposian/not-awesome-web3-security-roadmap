@@ -13,6 +13,8 @@ Tigran Piliposyan
 - [Introduction](#introduction)
 - [X](#x)
 - [EVM and Solidity](#evm-and-solidity)
+- [CTFs](#ctfs)
+- [Contests and Bug Bounties](#contests-and-bugbounties)
 - [Traditional Roadmaps](#traditional-roadmaps)
 
 ## Introduction
@@ -38,6 +40,10 @@ So, if you’re serious about becoming a Web3 security researcher, do yourself a
 ## EVM and Solidity
 
 
+## CTFs
+
+
+## Contests and Bug Bounties
 
 
 ## Traditional Roadmaps

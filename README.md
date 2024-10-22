@@ -14,7 +14,7 @@ Tigran Piliposyan
 - [X](#x)
 - [EVM and Solidity](#evm-and-solidity)
 - [CTFs](#ctfs)
-- [Contests and Bug Bounties](#contests-and-bugbounties)
+- [Contests and Bug Bounties](#contests-and-bug-bounties)
 - [Traditional Roadmaps](#traditional-roadmaps)
 
 ## Introduction

@@ -13,6 +13,7 @@ Tigran Piliposyan
 - [Introduction](#introduction)
 - [X](#x)
 - [EVM and Solidity](#evm-and-solidity)
+- [DeFi](#defi)
 - [CTFs](#ctfs)
 - [Contests and Bug Bounties](#contests-and-bug-bounties)
 - [Traditional Roadmaps](#traditional-roadmaps)
@@ -48,6 +49,8 @@ Maybe when you go to your first interview, the first questions you’ll face wil
 Now, let's pin down some ideas here—not just for this chapter, but for the rest of your learning journey (and maybe for life in general. Yeah, I used to laugh at philosophy when I was a student, but now I catch myself doing it sometimes, lol). **If you’re learning something, make sure you understand it deeply**. It might feel like a waste of time now, but it’ll save you from having to go back later and relearn what you skipped, you probably won’t have the time or even the desire to go back and fix it. And when you leave gaps like that, they turn into weaknesses.
 
 Lastly, what I’m suggesting here isn’t the one and only way to do it. Everyone learns differently, so explore other resources too. **Just don’t get stuck at this step.** When I was going through this, I collected a millions of articles, thinking I needed to read everything right away.. **But you don’t need to rush.** Focus on understanding the basics first. Believe me, you’ll read them all in one day, maybe... focus on what’s in front of you right now.
+
+## DeFi
 
 ## CTFs
 

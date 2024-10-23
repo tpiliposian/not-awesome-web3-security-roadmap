@@ -41,7 +41,13 @@ So, if you’re serious about becoming a Web3 security researcher, do yourself a
 
 Alright, by now, I assume you’ve set up your Twitter account, found some cool profiles to follow, and have started diving into the Web3 security. You’ve probably noticed how amazing the community is—everyone’s sharing what they’ve learned, posting insights, and spreading knowledge everywhere.
 
+But now it’s time to start learning seriously. At first, I thought about splitting this into separate chapters: one for the **Ethereum Virtual Machine (EVM)** and another for **Solidity**. But then I realized that might get a bit dry. Plus, it’s much more effective to learn the theory while practicing at the same time. So, I decided to combine them into one chapter. Trust me, learning these in parallel will be more engaging and practical.
 
+Maybe when you go to your first interview, the first questions you’ll face will be like, “What types of accounts are there in Ethereum?” or “Who is `tx.origin`, and who is `msg.sender`?”—stuff like that. A great way to learn all this is through the book [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook). It covers all the basics. If you’re completely new to blockchain, I recommend starting with some articles or videos to get the basic concepts of blockchain. Once you have that, dive into the Ethereum book. At the same time, I started working through [CryptoZombies](https://cryptozombies.io/) for learning Solidity. It’s a fun way to get hands-on with the programming language, starting from absolute zero.
+
+Now, let's pin down some ideas here—not just for this chapter, but for the rest of your learning journey (and maybe for life in general. Yeah, I used to laugh at philosophy when I was a student, but now I catch myself doing it sometimes, lol). **If you’re learning something, make sure you understand it deeply**. It might feel like a waste of time now, but it’ll save you from having to go back later and relearn what you skipped, you probably won’t have the time or even the desire to go back and fix it. And when you leave gaps like that, they turn into weaknesses.
+
+Lastly, what I’m suggesting here isn’t the one and only way to do it. Everyone learns differently, so explore other resources too. **Just don’t get stuck at this step.** When I was going through this, I collected a millions of articles, thinking I needed to read everything right away.. **But you don’t need to rush.** Focus on understanding the basics first. Believe me, you’ll read them all in one day, maybe... focus on what’s in front of you right now.
 
 ## CTFs
 

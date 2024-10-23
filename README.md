@@ -19,7 +19,7 @@ Tigran Piliposyan
 
 ## Introduction
 
-Alright, before we get too deep into this, let me introduce myself. I am Tigran Piliposyan (@tpiliposian), a Security Researcher at [Hexens](https://hexens.io/) for over a year now. I’m not here to pretend I’m some all-knowing security wizard sitting and cracking smart contracts left and right. No, I’m just someone who started from **ABSOLUTE** zero at age 29, leaving my previous workplace, with a family and two daughters to care for, and starting something completely new. I didn’t even know that there was a Web2, and now suddenly it’s Web3, or what blockchain even was! I didn’t know any programming languages either. (A bit more about that story [here](https://x.com/tpiliposian/status/1699805833167614299)).
+Alright, before we get too deep into this, let me introduce myself. I am Tigran Piliposyan ([@tpiliposian](https://twitter.com/tpiliposian)), a Security Researcher at [Hexens](https://hexens.io/) for over a year now. I’m not here to pretend I’m some all-knowing security wizard sitting and cracking smart contracts left and right. No, I’m just someone who started from **ABSOLUTE** zero at age 29, leaving my previous workplace, with a family and two daughters to care for, and starting something completely new. I didn’t even know that there was a Web2, and now suddenly it’s Web3, or what blockchain even was! I didn’t know any programming languages either. (A bit more about that story [here](https://x.com/tpiliposian/status/1699805833167614299)).
 
 I learned everything I could find. I went through all the roadmaps, consumed every piece of content available, and to be honest, it was kind of funny. It felt like the true start of a researcher’s journey, which I guess is the right way to begin. But once I actually started working, looking back, I realized I had wasted a lot of time simply because I didn’t know what to read or listen to first, what should come before or after. If someone had just sat down with me and told me step by step what to research, it would have been amazing.
 
@@ -38,6 +38,9 @@ At first, I didn’t even have an account. When I first met with Hexens' CEO, [@
 So, if you’re serious about becoming a Web3 security researcher, do yourself a favor: get on Twitter, follow the right people, and dive into the flow. After reading this, you can even post about it, give your feedback, or mention me—it would be a pleasure! You can also post throughout your journey. I know people who are now very famous, and they started by sharing every step of their journey.
 
 ## EVM and Solidity
+
+Alright, by now, I assume you’ve set up your Twitter account, found some cool profiles to follow, and have started diving into the Web3 security. You’ve probably noticed how amazing the community is—everyone’s sharing what they’ve learned, posting insights, and spreading knowledge everywhere.
+
 
 
 ## CTFs

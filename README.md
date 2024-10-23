@@ -52,9 +52,13 @@ Lastly, what I’m suggesting here isn’t the one and only way to do it. Everyo
 
 ## DeFi
 
-Ah, this is my most lovely part, as I worked more than 10 years in traditional finances, this was my strenght when I sarting, as I didn't have any technical background. Just want to be sure you understand everything and now you are good at Solidity, if not don't hurry but also don't stuck there, but cover everething needed to now understand a bit finances. But before we get into the security side, you’ve got to understand how DeFi works. You’ve probably heard terms like “yield farming,” “liquidity pools,” or “flash loans.” These are all key concepts in DeFi, and having a solid grasp on them is essential. I’d recommend starting with bigest platforms like Uniswap, Aave, and Compound to see how they work. So a lot of cool things you can find in [Whiteboard Crypto](https://www.youtube.com/@WhiteboardCrypto) YouTube channel. I learned a ton from them, it's very easy to understand, and imho it is all you need at this stage, go start with the [What is DeFi?](https://www.youtube.com/watch?v=17QRFlml4pA) and research, research and research. There is [Finematics](https://www.youtube.com/@Finematics) as well, I personally prefered Whiteboard Crypto when I was learning.
+Ah, this is my favorite part, as I worked for over 10 years in traditional finance. It was my strength when I first started, as I didn’t have a technical background.
 
-Don't stuck long here as well, because as I strongly believe everything you need to learn deeply, is when you will do your first audits. So now we need a big picture of everything. 
+Just make sure you’re comfortable with everything up to this point and feel good about your Solidity skills. If not, don’t rush, but also don’t get stuck, cover what’s needed, and let's understand finance a bit.
+
+Before we dive into the security side of things, it’s important to understand how DeFi works. You’ve probably heard terms like “yield farming,” “liquidity pools,” or “flash loans.” These are all key concepts in DeFi, and having a solid grasp of them is essential. I’d recommend starting with the biggest platforms like Uniswap, Aave, and Compound to see how they operate. A lot of great resources can be found on the [Whiteboard Crypto](https://www.youtube.com/@WhiteboardCrypto) YouTube channel. I learned a ton from them—it’s super easy to understand, and in my opinion, it’s all you need at this stage. Go start with their [What is DeFi?](https://www.youtube.com/watch?v=17QRFlml4pA) video and just keep researching. There’s also [Finematics](https://www.youtube.com/@Finematics), though I personally preferred Whiteboard Crypto when I was learning.
+
+Don’t spend too long on this part either, because I strongly believe that the best way to learn deeply is during your first audits. For now, you just need a big-picture understanding of everything.
 
 ## CTFs
 

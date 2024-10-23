@@ -67,10 +67,11 @@ Remember this book about AMMs, it's gold, now it may be a bit hard, but it’s a
 
 Yeah, back to Twitter again. If you’ve already found and started following some good blogs, that’s great. But if not, I want to make sure you know about a few that I personally read and have learned a lot from (and still do):
 
-- Rareskills
-- DevDacian
-- Zellic
-- Hexens (we’re working on the blog section right now, and I hope it will be ready by the time this goes open-source. Expect some cool stuff there!)
+- [RareSkills](https://x.com/RareSkills_io) ([blog](rareskills.io/blog))
+- [DevDacian](https://x.com/DevDacian) ([blog](https://dacian.me/))
+- [Zellic](https://x.com/zellic_io) ([blog](https://www.zellic.io/blog/))
+- [Hexens](https://x.com/hexensio) ([blog](https://hexens.io/blog)) (we’re working on the blog section right now, and I hope it will be ready by the time this goes open-source. Expect some cool stuff there!)
+- [Cyfrin Audits](https://x.com/CyfrinAudits) ([blog](https://www.cyfrin.io/blog))
 
 If you’re more into listening, here’s a list of podcasts worth checking out:
 

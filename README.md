@@ -14,6 +14,7 @@ Tigran Piliposyan
 - [X](#x)
 - [EVM and Solidity](#evm-and-solidity)
 - [DeFi](#defi)
+- [X2](#x2)
 - [CTFs](#ctfs)
 - [Contests and Bug Bounties](#contests-and-bug-bounties)
 - [Traditional Roadmaps](#traditional-roadmaps)
@@ -60,11 +61,13 @@ Before we dive into the security side of things, it’s important to understand 
 
 Don’t spend too long on this part either, because I strongly believe that the best way to learn deeply is during your first audits. For now, you just need a big-picture understanding of everything.
 
+Remember this book about AMM, this is gold, now it may be a bit hard, but thius is must read: [Automated Market Makers: A Practical Guide to Decentralized Exchanges and Cryptocurrency Trading](https://www.oreilly.com/library/view/automated-market-makers/9781484286166/).
+
+## X2
+
 ## CTFs
 
-
 ## Contests and Bug Bounties
-
 
 ## Traditional Roadmaps
 

@@ -70,18 +70,19 @@ Yeah, back to Twitter again. If you’ve already found and started following som
 - [RareSkills](https://x.com/RareSkills_io) ([blog](rareskills.io/blog))
 - [DevDacian](https://x.com/DevDacian) ([blog](https://dacian.me/))
 - [Zellic](https://x.com/zellic_io) ([blog](https://www.zellic.io/blog/))
+- [Trail of Bits](https://x.com/trailofbits) ([blog](https://blog.trailofbits.com/))
 - [Hexens](https://x.com/hexensio) ([blog](https://hexens.io/blog)) (we’re working on the blog section right now, and I hope it will be ready by the time this goes open-source. Expect some cool stuff there!)
 - [Cyfrin Audits](https://x.com/CyfrinAudits) ([blog](https://www.cyfrin.io/blog))
 
 If you’re more into listening, here’s a list of podcasts worth checking out:
 
-- @andyfeili
-- JohnnyTime
-- @ProofOf_Podcast
-- @CyfrinAudits
-- @SecuritySeries
-- @Unchained_pod
-- @the_bytecode
+- [Andy Li](https://x.com/andyfeili) | [YouTube](https://www.youtube.com/andyli)
+- [JohnnyTime](https://x.com/RealJohnnyTime) | [YouTube](https://www.youtube.com/JohnnyTime)
+- [Proof Of Podcast](https://x.com/ProofOf_Podcast) | [YouTube](https://www.youtube.com/@ProofOfPodcast)
+- [Cyfrin Audits](https://x.com/CyfrinAudits) | [Spotify](https://open.spotify.com/show/45aUdY9eDwYyE9EZzPaig4)
+- [Blockchain Security Series](https://x.com/SecuritySeries) | [Podcasts](https://linktr.ee/blockchainss)
+- [The Bytecode](https://x.com/the_bytecode) | [YouTube](https://www.youtube.com/@shafu0x)
+- [deliriusz](https://x.com/deliriusz_eth) | [YouTube](https://www.youtube.com/@deliriusz)
 
 ## CTFs
 

@@ -14,7 +14,7 @@ Tigran Piliposyan
 - [X](#x)
 - [EVM and Solidity](#evm-and-solidity)
 - [DeFi](#defi)
-- [X2](#x2)
+- [X2 or Blogs](#x2-or-blogs)
 - [CTFs](#ctfs)
 - [Contests and Bug Bounties](#contests-and-bug-bounties)
 - [Traditional Roadmaps](#traditional-roadmaps)
@@ -63,7 +63,24 @@ Don’t spend too long on this part either, because I strongly believe that the 
 
 Remember this book about AMMs, it's gold, now it may be a bit hard, but it’s a must-read: [Automated Market Makers: A Practical Guide to Decentralized Exchanges and Cryptocurrency Trading](https://www.oreilly.com/library/view/automated-market-makers/9781484286166/).
 
-## X2
+## X2 or Blogs
+
+Yeah, back to Twitter again. If you’ve already found and started following some good blogs, that’s great. But if not, I want to make sure you know about a few that I personally read and have learned a lot from (and still do):
+
+- Rareskills
+- DevDacian
+- Zellic
+- Hexens (we’re working on the blog section right now, and I hope it will be ready by the time this goes open-source. Expect some cool stuff there!)
+
+If you’re more into listening, here’s a list of podcasts worth checking out:
+
+- @andyfeili
+- JohnnyTime
+- @ProofOf_Podcast
+- @CyfrinAudits
+- @SecuritySeries
+- @Unchained_pod
+- @the_bytecode
 
 ## CTFs
 

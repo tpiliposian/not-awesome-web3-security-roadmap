@@ -17,6 +17,8 @@ Tigran Piliposyan
 - [X2 or Blogs](#x2-or-blogs)
 - [CTFs](#ctfs)
 - [Contests and Bug Bounties](#contests-and-bug-bounties)
+- [Continuous Learning](#continuous-learning)
+- [Closing Remarks](#closing-remarks)
 - [Traditional Roadmaps](#traditional-roadmaps)
 
 ## Introduction
@@ -91,6 +93,10 @@ If you’re more into listening, here’s a list of podcasts worth checking out:
 Honestly, there’s not too much to say here. Some people absolutely love CTFs, I felt, especially those coming from Web2 security. Personally, I’m not a huge CTF guy, but I did go through [Ethernaut](https://ethernaut.openzeppelin.com/) and [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) when I was starting, and it was pretty fun. So if you’re into challenges, give them a try. They’re a great way to get hands-on experience.
 
 ## Contests and Bug Bounties
+
+## Continuous Learning
+
+## Closing Remarks
 
 ## Traditional Roadmaps
 

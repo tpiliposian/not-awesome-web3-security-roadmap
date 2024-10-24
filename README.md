@@ -83,6 +83,7 @@ If you’re more into listening, here’s a list of podcasts worth checking out:
 - [JohnnyTime](https://x.com/RealJohnnyTime) | [YouTube](https://www.youtube.com/JohnnyTime)
 - [HackenProof](https://x.com/HackenProof) | [YouTube](https://www.youtube.com/@hackenproof)
 - [Proof Of Podcast](https://x.com/ProofOf_Podcast) | [YouTube](https://www.youtube.com/@ProofOfPodcast)
+- [OpenSense](https://x.com/opensensepw) | [YouTube](https://www.youtube.com/@opensensepw)
 - [Cyfrin Audits](https://x.com/CyfrinAudits) | [Spotify](https://open.spotify.com/show/45aUdY9eDwYyE9EZzPaig4)
 - [Blockchain Security Series](https://x.com/SecuritySeries) | [Podcasts](https://linktr.ee/blockchainss)
 - [The Bytecode](https://x.com/the_bytecode) | [YouTube](https://www.youtube.com/@shafu0x)

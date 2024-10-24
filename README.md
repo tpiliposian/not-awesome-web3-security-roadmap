@@ -72,6 +72,7 @@ Yeah, back to Twitter again. If you’ve already found and started following som
 - [Zellic](https://x.com/zellic_io) ([blog](https://www.zellic.io/blog/))
 - [Trail of Bits](https://x.com/trailofbits) ([blog](https://blog.trailofbits.com/))
 - [Hexens](https://x.com/hexensio) ([blog](https://hexens.io/blog)) (we’re working on the blog section right now, and I hope it will be ready by the time this goes open-source. Expect some cool stuff there!)
+- [MixBytes](https://x.com/MixBytes) ([blog](https://mixbytes.io/blog))
 - [Cyfrin Audits](https://x.com/CyfrinAudits) ([blog](https://www.cyfrin.io/blog))
 
 If you’re more into listening, here’s a list of podcasts worth checking out:
@@ -86,6 +87,8 @@ If you’re more into listening, here’s a list of podcasts worth checking out:
 - [deliriusz](https://x.com/deliriusz_eth) | [YouTube](https://www.youtube.com/@deliriusz)
 
 ## CTFs
+
+In this section there is not so much to say, there are people who love CTFs, I felt like who is coming from Web2 security mainty they love so much CTFs
 
 ## Contests and Bug Bounties
 

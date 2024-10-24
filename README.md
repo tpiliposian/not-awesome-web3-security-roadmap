@@ -91,7 +91,7 @@ If you’re more into listening, here’s a list of podcasts worth checking out:
 
 ## CTFs
 
-Honestly, there’s not too much to say here. Some people absolutely love CTFs, I felt, especially those coming from Web2 security. Personally, I’m not a huge CTF guy, but I did go through [Ethernaut](https://ethernaut.openzeppelin.com/) and [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) when I was starting, and it was pretty fun. So if you’re into challenges, give them a try. They’re a great way to get hands-on experience.
+Honestly, there’s not too much to say here. Some people absolutely love CTFs, I felt, especially those coming from Web2 security. Personally, I’m not a huge CTF guy, but I did go through [Ethernaut](https://ethernaut.openzeppelin.com/) and [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) when I was starting, and it was pretty fun. So if you’re into challenges, give them a try. They’re a great way to get hands-on experience. But the most important part comes in the next chapter.
 
 ## Contests and Bug Bounties
 

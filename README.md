@@ -61,7 +61,7 @@ Just make sure you’re comfortable with everything up to this point and feel go
 
 Before we dive into the security side of things, it’s important to understand how DeFi works. You’ve probably heard terms like “yield farming,” “liquidity pools,” or “flash loans.” These are all key concepts in DeFi, and having a solid grasp of them is essential. I’d recommend starting with the biggest platforms like Uniswap, Aave, and Compound to see how they operate. A lot of great resources can be found on the [Whiteboard Crypto](https://www.youtube.com/@WhiteboardCrypto) YouTube channel. I learned a ton from them—it’s super easy to understand, and in my opinion, it’s all you need at this stage. Go start with their [What is DeFi?](https://www.youtube.com/watch?v=17QRFlml4pA) video and just keep researching. There’s also [Finematics](https://www.youtube.com/@Finematics), though I personally preferred Whiteboard Crypto when I was learning.
 
-Don’t spend too long on this part either, because I strongly believe that the best way to learn deeply is during your first audits. For now, you just need a big-picture understanding of everything.
+**Don’t spend too long on this part either, because I strongly believe that the best way to learn deeply is during your first audits.** For now, you just need a big-picture understanding of everything.
 
 Remember this book about AMMs, it's gold, now it may be a bit hard, but it’s a must-read: [Automated Market Makers: A Practical Guide to Decentralized Exchanges and Cryptocurrency Trading](https://www.oreilly.com/library/view/automated-market-makers/9781484286166/).
 

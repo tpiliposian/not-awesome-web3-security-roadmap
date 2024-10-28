@@ -115,7 +115,7 @@ There are also bug bounty platforms where you can hunt for bugs in live contract
 
 ## Continuous Learning
 
-In this space, things are moving so fast that keeping up means committing to continuous learning. Competition’s only getting tougher. What I mean is, maybe you’ve read about the EVM and feel like you get how it works—but if you really want to know, go and read the codes. Yes, that means learning some Go first so you can dive into the details, but that’s the way. Same goes for math and computer science; you’ll want to sharpen those skills over time too. Never sit back thinking you know it all—staying competitive means pushing your growth at least as fast as the field itself.
+In this space, things are moving so fast that keeping up means committing to continuous learning. Competition’s only getting tougher. What I mean is, maybe you’ve read about the EVM and feel like you get how it works—but if you really want to know, go and read the codes. Yes, that means learning some Go first so you can dive into the details, but that’s the way. Same goes for math and computer science; you’ll want to sharpen those skills over time too. Never sit back thinking you know it all—staying competitive means pushing your growth at least as fast as the field itself. Keep reading, keep experimenting, and surround yourself with others who are just as passionate.
 
 ## Closing Remarks
 

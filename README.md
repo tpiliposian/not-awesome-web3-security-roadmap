@@ -97,6 +97,22 @@ Honestly, there’s not too much to say here. Some people absolutely love CTFs, 
 
 ## Contests and Bug Bounties
 
+Woah, we've made it to the most important part. Here’s where things get real. Up until now, all you needed was a solid grasp of the basics. But this is where deep learning starts.
+
+There’s [Solodit](https://solodit.cyfrin.io/), a fantastic resource filled with millions of bug reports. It’s a great way to learn, but the best strategy isn’t just reading bug descriptions without context (especially for high or critical ones).
+
+Here’s an ideal approach: take a scope from one of the contest platforms (I’ll list them below), try your own audit, and then review all the findings you missed. Understand them, and repeat. This is the phase for truly in-depth learning. For example, if you’re working on a liquid staking or governance project, dive into every article you can find to understand those systems inside and out—that’s how you’ll grow as a security researcher.
+
+Here are the top contest platforms:
+
+- [Code4rena](https://code4rena.com/)
+- [Cantina](https://cantina.xyz/welcome)
+- [Codehawks](https://codehawks.cyfrin.io/)
+- [Sherlock](https://audits.sherlock.xyz/contests)
+- [Hats finance](https://app.hats.finance/audit-competitions)
+
+There are also bug bounty platforms where you can hunt for bugs in live contracts, like [Immunefi](https://immunefi.com/) and [Remedy](https://hunt.r.xyz/). By the way, I’ve collected 2023-2024 Immunefi critical [bug fixes](https://github.com/tpiliposian/Immunefi-bugfixes), which could be super useful learning material, too!
+
 ## Continuous Learning
 
 ## Closing Remarks

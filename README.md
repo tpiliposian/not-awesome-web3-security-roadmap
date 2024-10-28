@@ -119,6 +119,8 @@ In this space, things are moving so fast that keeping up means committing to con
 
 ## Closing Remarks
 
+I hope this has given you a solid starting point. My own journey has been a mix of trial and error, hands-on learning, and just a lot of curiosity. If there’s one thing I want you to take away, it’s this: stay curious, stay persistent, and don’t be afraid to ask questions. Be consistent—yeah, there will be bad days and good days. Don’t set some fixed deadline for “success.” Everyone’s got their own path. Just aim to be a bit better than you were yesterday. Keep going.
+
 ## Traditional Roadmaps
 
 1. [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)

@@ -111,7 +111,7 @@ Here are the top contest platforms:
 - [Sherlock](https://audits.sherlock.xyz/contests)
 - [Hats finance](https://app.hats.finance/audit-competitions)
 
-There are also bug bounty platforms where you can hunt for bugs in live contracts, like [Immunefi](https://immunefi.com/) and [Remedy](https://hunt.r.xyz/). By the way, I’ve collected 2023-2024 Immunefi critical [bug fixes](https://github.com/tpiliposian/Immunefi-bugfixes), which could be useful learning material, too!
+There are also bug bounty platforms where you can hunt for bugs in live contracts, like [Immunefi](https://immunefi.com/) and [Remedy](https://r.xyz/). By the way, I’ve collected 2023-2024 Immunefi critical [bug fixes](https://github.com/tpiliposian/Immunefi-bugfixes), which could be useful learning material, too!
 
 ## Continuous Learning
 

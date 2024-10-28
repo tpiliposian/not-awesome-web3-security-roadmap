@@ -105,8 +105,8 @@ Hereâ€™s an ideal approach: **take a scope from one of the contest platforms (Iâ
 
 Here are the top contest platforms:
 
-- [Code4rena](https://code4rena.com/)
 - [Cantina](https://cantina.xyz/welcome)
+- [Code4rena](https://code4rena.com/)
 - [Codehawks](https://codehawks.cyfrin.io/)
 - [Sherlock](https://audits.sherlock.xyz/contests)
 - [Hats finance](https://app.hats.finance/audit-competitions)

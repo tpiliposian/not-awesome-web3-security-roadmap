@@ -101,7 +101,7 @@ Woah, we've made it to the most important part. Here’s where things get real. 
 
 There’s [Solodit](https://solodit.cyfrin.io/), a fantastic resource filled with millions of bug reports. It’s a great way to learn, but the best strategy isn’t just reading bug descriptions without context (especially for high or critical ones).
 
-Here’s an ideal approach: **take a scope from one of the contest platforms (I’ll list them below), try your own audit, and then review all the findings you missed. Understand them, and repeat.** This is the phase for truly in-depth learning. For example, if you’re working on a liquid staking or governance project, dive into every article you can find to understand those systems inside and out—that’s how you’ll grow as a security researcher.
+Here’s an ideal approach: **take a scope from one of the contest platforms** (I’ll list them below), **try your own audit, and then review all the findings you missed. Understand them, and repeat.** This is the phase for truly in-depth learning. For example, if you’re working on a liquid staking or governance project, dive into every article you can find to understand those systems inside and out—that’s how you’ll grow as a security researcher. But make sure you not only understand **what** you missed, but also **why** you missed it, and work on that constantly.
 
 Here are the top contest platforms:
 
@@ -113,13 +113,17 @@ Here are the top contest platforms:
 
 There are also bug bounty platforms where you can hunt for bugs in live contracts, like [Immunefi](https://immunefi.com/) and [Remedy](https://r.xyz/). By the way, I’ve collected 2023-2024 Immunefi critical [bug fixes](https://github.com/tpiliposian/Immunefi-bugfixes), which could be useful learning material, too!
 
+I could go on about these infinitely, but I think you’re already getting the idea.
+
 ## Continuous Learning
 
 In this space, things are moving so fast that keeping up means committing to continuous learning. Competition’s only getting tougher. What I mean is, maybe you’ve read about the EVM and feel like you get how it works—but if you really want to know, go and read the codes. Yes, that means learning some Go first so you can dive into the details, but that’s the way. Same goes for math and computer science; you’ll want to sharpen those skills over time too. Never sit back thinking you know it all—staying competitive means pushing your growth at least as fast as the field itself. Keep reading, keep experimenting, and surround yourself with others who are just as passionate.
 
 ## Closing Remarks
 
-I hope this has given you a solid starting point. My own journey has been a mix of trial and error, hands-on learning, and just a lot of curiosity. If there’s one thing I want you to take away, it’s this: stay curious, stay persistent, and don’t be afraid to ask questions. Be consistent—yeah, there will be bad days and good days. Don’t set some fixed deadline for “success.” Everyone’s got their own path. Just aim to be a bit better than you were yesterday. Keep going.
+I hope this guide has given you a solid starting point. My own journey has been a blend of trial and error, hands-on learning, and a lot of curiosity. If there’s one thing I want you to take away, it’s this: stay curious, stay persistent, and don’t be afraid to ask questions. Consistency is key—yes, there will be good days and bad days. Don’t set rigid deadlines for “success.” Everyone’s journey is unique, so just aim to be a bit better than you were yesterday.
+
+As you’ve probably noticed, I’ve shared less detail toward the end—that’s because I believe you’re already starting to understand all this, maybe even better than I. I believe in you. Keep going.
 
 ## Traditional Roadmaps
 

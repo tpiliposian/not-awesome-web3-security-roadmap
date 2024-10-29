@@ -1,4 +1,4 @@
-# Not awesome Web3 Security Researcher roadmap
+# Not so awesome Web3 Security Researcher roadmap
 
 Of course, this is not awesome. This is not the curated list of blue underlined [words](https://blank.page/) that you will click, read, and jump to the next one, hoping to finish as fast as possible—or maybe hoping not to finish at all. You are going to become a security **RESEARCHER**. Yeah, **RESEARCHER**. No one is going to find vulnerabilities for you or point out the functions where they are hiding. You are going to have to dig, **research**, and find them **yourself**. So the path to becoming a security researcher? It’s all about research.
 
@@ -37,7 +37,7 @@ Let’s start with the easiest part: X (or Twitter, as many of us still call it)
 
 The cool thing about this space is that everyone’s out there posting content. You’ll find security researchers sharing their knowledge, bug bounty hunters celebrating their discoveries, and protocols announcing bounty programs for anyone to find bugs in their smart contracts. And it’s all happening in real-time. Twitter is where you’ll get the fastest updates on new exploits, bug disclosures, and hacks, often before they even hit the news.
 
-At first, I didn’t even have an account. When I first met with Hexens' CEO, [@Hexen1337](https://x.com/Hexen1337), he advised me to create one, and it quickly became a key tool for learning and growing. I followed accounts of security experts, read through long tweet threads dissecting the latest exploits, and stayed up to date with everything happening in the industry.
+At first, I didn’t even have an account. When I first met with Hexens' CEO, [@Hexen1337](https://x.com/Hexen1337), he advised me to create one, and it quickly became a key tool for learning and growing. I followed accounts of security experts, read through long tweet threads dissecting the latest exploits, and stayed up to date with everything happening in the industry. I remember the first accounts I followed were [@officer_cia](https://x.com/officer_cia), [@RealJohnnyTime](https://x.com/RealJohnnyTime) and [@PatrickAlphaC](https://x.com/PatrickAlphaC).
 
 So, if you’re serious about becoming a Web3 security researcher, do yourself a favor: get on Twitter, follow the right people, and dive into the flow. After reading this, you can even post about it, give your feedback, or mention me—it would be a pleasure! You can also post throughout your journey. I know people who are now very famous, and they started by sharing every step of their journey.
 

@@ -90,6 +90,7 @@ If you’re more into listening, here’s a list of podcasts worth checking out:
 - [Blockchain Security Series](https://x.com/SecuritySeries) | [Podcasts](https://linktr.ee/blockchainss)
 - [The Bytecode](https://x.com/the_bytecode) | [YouTube](https://www.youtube.com/@shafu0x)
 - [deliriusz](https://x.com/deliriusz_eth) | [YouTube](https://www.youtube.com/@deliriusz)
+- [bountyhunt3rz](https://x.com/bountyhunt3rz) | [Podcasts](https://zencastr.com/bountyhunt3rz-life-on-the-blockchain)
 
 ## CTFs
 
